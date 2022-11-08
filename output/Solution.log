@@ -1,0 +1,182 @@
+Solutions for question 1: 
+Highest_Team_Score = Team name: Boston Celtics, Highest score: 11697
+
+Highest_Home_Team_Score = Home team name: Golden State Warriors, Highest score: 6014, Home stadium: Chase Center
+
+Highest_Visitor_Team_Score = Visitor team name: Boston Celtics, Highest score: 5902
+
+Win_Rate_For_Home_Team = Home team name: Golden State Warriors, Win rate: 0.7925, Home stadium: Chase Center
+
+Win_Rate_For_Visitor_Team = Visitor team name: Phoenix Suns, Win rate: 0.7234
+
+Team_Rank = 
+Team: Golden State Warriors, Home arena: Chase Center, Total score: 6014
+Team: Boston Celtics, Home arena: TD Garden, Total score: 5795
+Team: Miami Heat, Home arena: FTX Arena, Total score: 5609
+Team: Phoenix Suns, Home arena: Phoenix Suns Arena, Total score: 5520
+Team: Memphis Grizzlies, Home arena: FedEx Forum, Total score: 5519
+Team: Milwaukee Bucks, Home arena: Fiserv Forum, Total score: 5352
+Team: Dallas Mavericks, Home arena: American Airlines Center, Total score: 5294
+Team: Philadelphia 76ers, Home arena: Wells Fargo Center, Total score: 5154
+Team: Atlanta Hawks, Home arena: State Farm Arena, Total score: 5112
+Team: Utah Jazz, Home arena: Vivint Smart Home Arena, Total score: 5102
+Team: Minnesota Timberwolves, Home arena: Target Center, Total score: 5080
+Team: New Orleans Pelicans, Home arena: Smoothie King Center, Total score: 5017
+Team: Denver Nuggets, Home arena: Ball Arena, Total score: 4945
+Team: Toronto Raptors, Home arena: Scotiabank Arena, Total score: 4859
+Team: Chicago Bulls, Home arena: United Center, Total score: 4858
+Team: Brooklyn Nets, Home arena: Barclays Center, Total score: 4858
+Team: Indiana Pacers, Home arena: Gainbridge Fieldhouse, Total score: 4683
+Team: San Antonio Spurs, Home arena: AT&T Center, Total score: 4658
+Team: Charlotte Hornets, Home arena: Spectrum Center, Total score: 4652
+Team: Los Angeles Lakers, Home arena: Crypto.com Arena, Total score: 4607
+Team: Los Angeles Clippers, Home arena: Crypto.com Arena, Total score: 4605
+Team: Houston Rockets, Home arena: Toyota Center, Total score: 4589
+Team: Washington Wizards, Home arena: Capital One Arena, Total score: 4588
+Team: Cleveland Cavaliers, Home arena: Rocket Mortgage Fieldhouse, Total score: 4532
+Team: Sacramento Kings, Home arena: Golden 1 Center, Total score: 4523
+Team: Portland Trail Blazers, Home arena: Moda Center, Total score: 4461
+Team: New York Knicks, Home arena: Madison Square Garden (IV), Total score: 4346
+Team: Detroit Pistons, Home arena: Little Caesars Arena, Total score: 4308
+Team: Oklahoma City Thunder, Home arena: Paycom Center, Total score: 4291
+Team: Orlando Magic, Home arena: Amway Center, Total score: 4273
+
+
+
+Solutions for question 2: 
+Average_Start_Time_Per_Home_Team = 
+Home team name: Minnesota Timberwolves, Average start time: 8:00 PM, Home stadium: Target Center
+Home team name: Boston Celtics, Average start time: 6:36 PM, Home stadium: TD Garden
+Home team name: Toronto Raptors, Average start time: 7:00 PM, Home stadium: Scotiabank Arena
+Home team name: Oklahoma City Thunder, Average start time: 7:45 PM, Home stadium: Paycom Center
+Home team name: New York Knicks, Average start time: 6:12 PM, Home stadium: Madison Square Garden (IV)
+Home team name: Washington Wizards, Average start time: 6:42 PM, Home stadium: Capital One Arena
+Home team name: Los Angeles Lakers, Average start time: 9:43 PM, Home stadium: Crypto.com Arena
+Home team name: New Orleans Pelicans, Average start time: 7:54 PM, Home stadium: Smoothie King Center
+Home team name: Milwaukee Bucks, Average start time: 7:24 PM, Home stadium: Fiserv Forum
+Home team name: Utah Jazz, Average start time: 9:04 PM, Home stadium: Vivint Smart Home Arena
+Home team name: Phoenix Suns, Average start time: 9:09 PM, Home stadium: Phoenix Suns Arena
+Home team name: San Antonio Spurs, Average start time: 8:18 PM, Home stadium: AT&T Center
+Home team name: Los Angeles Clippers, Average start time: 9:02 PM, Home stadium: Crypto.com Arena
+Home team name: Charlotte Hornets, Average start time: 6:47 PM, Home stadium: Spectrum Center
+Home team name: Orlando Magic, Average start time: 6:46 PM, Home stadium: Amway Center
+Home team name: Philadelphia 76ers, Average start time: 6:55 PM, Home stadium: Wells Fargo Center
+Home team name: Indiana Pacers, Average start time: 6:38 PM, Home stadium: Gainbridge Fieldhouse
+Home team name: Atlanta Hawks, Average start time: 7:11 PM, Home stadium: State Farm Arena
+Home team name: Denver Nuggets, Average start time: 8:42 PM, Home stadium: Ball Arena
+Home team name: Cleveland Cavaliers, Average start time: 6:51 PM, Home stadium: Rocket Mortgage Fieldhouse
+Home team name: Detroit Pistons, Average start time: 6:13 PM, Home stadium: Little Caesars Arena
+Home team name: Portland Trail Blazers, Average start time: 9:48 PM, Home stadium: Moda Center
+Home team name: Chicago Bulls, Average start time: 7:39 PM, Home stadium: United Center
+Home team name: Dallas Mavericks, Average start time: 7:56 PM, Home stadium: American Airlines Center
+Home team name: Brooklyn Nets, Average start time: 7:01 PM, Home stadium: Barclays Center
+Home team name: Miami Heat, Average start time: 7:28 PM, Home stadium: FTX Arena
+Home team name: Houston Rockets, Average start time: 7:32 PM, Home stadium: Toyota Center
+Home team name: Golden State Warriors, Average start time: 9:27 PM, Home stadium: Chase Center
+Home team name: Memphis Grizzlies, Average start time: 7:38 PM, Home stadium: FedEx Forum
+Home team name: Sacramento Kings, Average start time: 9:17 PM, Home stadium: Golden 1 Center
+
+Stadium_With_Most_Attendees = Home stadium: Crypto.com Arena, Total number of attendees: 1477704
+
+Team_Rank_By_Attendees = 
+Team: Boston Celtics, Total number of attendees: 1902011
+Team: Golden State Warriors, Total number of attendees: 1877874
+Team: Dallas Mavericks, Total number of attendees: 1850693
+Team: Miami Heat, Total number of attendees: 1833706
+Team: Philadelphia 76ers, Total number of attendees: 1771102
+Team: Chicago Bulls, Total number of attendees: 1681705
+Team: Milwaukee Bucks, Total number of attendees: 1666656
+Team: Phoenix Suns, Total number of attendees: 1596314
+Team: Memphis Grizzlies, Total number of attendees: 1594884
+Team: Utah Jazz, Total number of attendees: 1522949
+Team: Brooklyn Nets, Total number of attendees: 1519583
+Team: Los Angeles Lakers, Total number of attendees: 1510007
+Team: Cleveland Cavaliers, Total number of attendees: 1497905
+Team: Atlanta Hawks, Total number of attendees: 1489633
+Team: Minnesota Timberwolves, Total number of attendees: 1476730
+Team: New York Knicks, Total number of attendees: 1472399
+Team: Denver Nuggets, Total number of attendees: 1463308
+Team: New Orleans Pelicans, Total number of attendees: 1433831
+Team: Charlotte Hornets, Total number of attendees: 1419028
+Team: Los Angeles Clippers, Total number of attendees: 1406623
+Team: Toronto Raptors, Total number of attendees: 1375424
+Team: Portland Trail Blazers, Total number of attendees: 1368007
+Team: Detroit Pistons, Total number of attendees: 1334342
+Team: Orlando Magic, Total number of attendees: 1322451
+Team: Houston Rockets, Total number of attendees: 1321849
+Team: Washington Wizards, Total number of attendees: 1319075
+Team: San Antonio Spurs, Total number of attendees: 1311795
+Team: Indiana Pacers, Total number of attendees: 1277319
+Team: Oklahoma City Thunder, Total number of attendees: 1277272
+Team: Sacramento Kings, Total number of attendees: 1258141
+
+Arena_Rank_By_Attendees = 
+Home Arena: Crypto.com Arena, Game average start time: 9:22 PM, Total Attendants: 1477704
+Home Arena: FTX Arena, Game average start time: 7:28 PM, Total Attendants: 1002918
+Home Arena: American Airlines Center, Game average start time: 7:56 PM, Total Attendants: 972527
+Home Arena: Wells Fargo Center, Game average start time: 6:55 PM, Total Attendants: 972277
+Home Arena: TD Garden, Game average start time: 6:36 PM, Total Attendants: 957800
+Home Arena: Chase Center, Game average start time: 9:27 PM, Total Attendants: 957392
+Home Arena: United Center, Game average start time: 7:39 PM, Total Attendants: 900835
+Home Arena: Fiserv Forum, Game average start time: 7:24 PM, Total Attendants: 821414
+Home Arena: Vivint Smart Home Arena, Game average start time: 9:04 PM, Total Attendants: 805464
+Home Arena: Phoenix Suns Arena, Game average start time: 9:09 PM, Total Attendants: 782668
+Home Arena: Rocket Mortgage Fieldhouse, Game average start time: 6:51 PM, Total Attendants: 777660
+Home Arena: Barclays Center, Game average start time: 7:01 PM, Total Attendants: 765545
+Home Arena: Madison Square Garden (IV), Game average start time: 6:12 PM, Total Attendants: 763484
+Home Arena: FedEx Forum, Game average start time: 7:38 PM, Total Attendants: 753549
+Home Arena: Ball Arena, Game average start time: 8:42 PM, Total Attendants: 734517
+Home Arena: Target Center, Game average start time: 8:00 PM, Total Attendants: 734073
+Home Arena: State Farm Arena, Game average start time: 7:11 PM, Total Attendants: 728251
+Home Arena: Smoothie King Center, Game average start time: 7:54 PM, Total Attendants: 711185
+Home Arena: Moda Center, Game average start time: 9:48 PM, Total Attendants: 705608
+Home Arena: Spectrum Center, Game average start time: 6:47 PM, Total Attendants: 700755
+Home Arena: Little Caesars Arena, Game average start time: 6:13 PM, Total Attendants: 663556
+Home Arena: Capital One Arena, Game average start time: 6:42 PM, Total Attendants: 641499
+Home Arena: Toyota Center, Game average start time: 7:32 PM, Total Attendants: 638977
+Home Arena: Amway Center, Game average start time: 6:46 PM, Total Attendants: 622881
+Home Arena: AT&T Center, Game average start time: 8:18 PM, Total Attendants: 615588
+Home Arena: Scotiabank Arena, Game average start time: 7:00 PM, Total Attendants: 606743
+Home Arena: Paycom Center, Game average start time: 7:45 PM, Total Attendants: 595112
+Home Arena: Gainbridge Fieldhouse, Game average start time: 6:38 PM, Total Attendants: 588743
+Home Arena: Golden 1 Center, Game average start time: 9:17 PM, Total Attendants: 577583
+
+
+
+Solutions for question 3: 
+Team_With_Toughest_Schedule = Team with toughest schedule is : Phoenix Suns
+
+Team_Rank_By_Toughest_Schedule = 
+Team: Phoenix Suns , Rank: 9
+Team: Orlando Magic , Rank: 9
+Team: Washington Wizards , Rank: 8
+Team: Boston Celtics , Rank: 7
+Team: Golden State Warriors , Rank: 7
+Team: Los Angeles Lakers , Rank: 6
+Team: Indiana Pacers , Rank: 6
+Team: Utah Jazz , Rank: 5
+Team: Toronto Raptors , Rank: 5
+Team: New York Knicks , Rank: 4
+Team: Minnesota Timberwolves , Rank: 4
+Team: Los Angeles Clippers , Rank: 3
+Team: Cleveland Cavaliers , Rank: 3
+Team: Oklahoma City Thunder , Rank: 3
+Team: Miami Heat , Rank: 3
+Team: San Antonio Spurs , Rank: 2
+Team: Denver Nuggets , Rank: 2
+Team: Dallas Mavericks , Rank: 1
+Team: Milwaukee Bucks , Rank: 1
+Team: Atlanta Hawks , Rank: 1
+Team: Charlotte Hornets , Rank: 1
+Team: Houston Rockets , Rank: 1
+Team: Sacramento Kings , Rank: 1
+Team: New Orleans Pelicans , Rank: 0
+Team: Brooklyn Nets , Rank: 0
+Team: Memphis Grizzlies , Rank: 0
+Team: Detroit Pistons , Rank: 0
+Team: Chicago Bulls , Rank: -1
+Team: Portland Trail Blazers , Rank: -1
+Team: Philadelphia 76ers , Rank: -4
+
+
+
